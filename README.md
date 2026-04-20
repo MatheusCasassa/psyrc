@@ -1,7 +1,7 @@
 # 🔴🟡🔵⚪ RASCS ⚪🔵🟡🔴
 ### **WCA Live Point System Rank Calculator**
 
-![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg)(https://rascswca.streamlit.app)
+![Streamlit App](https://rascswca.streamlit.app)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![WCA](https://img.shields.io/badge/WCA-Live_API-green.svg)
 
