@@ -1,7 +1,7 @@
 # 🔴🟡🔵⚪ RASCS ⚪🔵🟡🔴
 ### **WCA Live Point System Rank Calculator**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://rascs.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://rascswca.streamlit.app)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![WCA](https://img.shields.io/badge/WCA-Live_API-green.svg)
 
@@ -9,9 +9,11 @@
 
 ## 🌎 Overview / Visão Geral
 
-**🇺🇸** RASCS is a Streamlit-based application designed to be a "scoring calculation system" for WCA competitions, using real-time data from **WCA Live**. It allows organizers and community members to score competitions dynamically as results are posted. 
+**🇺🇸**
+RASCS is a Streamlit-based application designed to be a "scoring calculation system" for WCA competitions, using real-time data from **WCA Live**. It allows organizers and community members to score competitions dynamically as results are posted. 
 
-**🇧🇷** O RASCS é uma aplicação desenvolvida em Streamlit com o objetivo de ser um sistema de cálculo de pontuação para competições da WCA, utilizando dados em tempo real do **WCA Live**. Ele permite que organizadores e a comunidade acompanhem a pontuação dinâmica conforme os resultados são publicados.
+**🇧🇷**
+RASCS é uma aplicação desenvolvida em Streamlit com o objetivo de ser um sistema de cálculo de pontuação para competições da WCA, utilizando dados em tempo real do **WCA Live**. Ele permite que organizadores e a comunidade acompanhem a pontuação dinâmica conforme os resultados são publicados.
 
 ---
 
