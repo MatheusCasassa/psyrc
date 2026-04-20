@@ -9,9 +9,9 @@
 
 ## 🌎 Overview / Visão Geral
 
-**EN** RASCS is a Streamlit-based application designed to be a "scoring calculation system" for WCA competitions, using real-time data from **WCA Live**. It allows organizers and community members to score competitions dynamically as results are posted. 
+**🇺🇸** RASCS is a Streamlit-based application designed to be a "scoring calculation system" for WCA competitions, using real-time data from **WCA Live**. It allows organizers and community members to score competitions dynamically as results are posted. 
 
-**PT** O RASCS é uma aplicação desenvolvida em Streamlit com o objetivo de ser um sistema de cálculo de pontuação para competições da WCA, utilizando dados em tempo real do **WCA Live**. Ele permite que organizadores e a comunidade acompanhem a pontuação dinâmica conforme os resultados são publicados.
+**🇧🇷** O RASCS é uma aplicação desenvolvida em Streamlit com o objetivo de ser um sistema de cálculo de pontuação para competições da WCA, utilizando dados em tempo real do **WCA Live**. Ele permite que organizadores e a comunidade acompanhem a pontuação dinâmica conforme os resultados são publicados.
 
 ---
 
